@@ -4,7 +4,6 @@ contributors:
     - ["Lenar Khannanov (Assisted-by: LLM)"]
 ---
 
-
 Applied Pi Calculus extends the &pi;-calculus with equational theories (e.g.,
 encryption, hashing) to model cryptographic protocols. ProVerif is a symbolic
 protocol verifier built on this calculus — it checks secrecy, authentication,
